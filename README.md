@@ -1,4 +1,4 @@
-appsforcoder.com
-================
+[Apps4coder: Update and Focus]
+=============================
 
-Website for appsforcoder studio.
+Official site for appsforcoder studio.
