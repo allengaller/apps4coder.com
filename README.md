@@ -1,4 +1,12 @@
-[Apps4coder: Update and Focus]
-=============================
+# Apps4coder - Update Yourself #
 
-Official site for appsforcoder studio.
+About
+=====
+This is the official website of appsforcoder studio.
+
+Contact
+-------
+allengaller(at)gmail.com
+
+Donation
+--------
